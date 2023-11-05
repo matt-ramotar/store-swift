@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A9336D11-721E-4389-BF57-DD9DB9284439"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AA5E21EC-9F63-45C4-A0E0-473BF5658873"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "store/impl/stream/StreamHandlerImpl.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "167"
+            endingLineNumber = "167"
+            landmarkName = "fetchFromNetworkAndWriteToSourceOfTruth(key:fallBackToSourceOfTruth:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AA5E21EC-9F63-45C4-A0E0-473BF5658873 - 1d4e18c8694ed3a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "store.StreamHandlerImpl.fetchFromNetworkAndWriteToSourceOfTruth(key: &#x3c4;_0_0, fallBackToSourceOfTruth: Swift.Bool) -&gt; ()"
+                  moduleName = "Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mramotar/src/store-ios/store/store/impl/stream/StreamHandlerImpl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "141"
+                  endingLineNumber = "141"
+                  offsetFromSymbolStart = "920">
+               </Location>
+               <Location
+                  uuid = "AA5E21EC-9F63-45C4-A0E0-473BF5658873 - 72fcf372dab66424"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;store.StoreError&gt;) -&gt; () in store.StreamHandlerImpl.fetchFromNetworkAndWriteToSourceOfTruth(key: &#x3c4;_0_0, fallBackToSourceOfTruth: Swift.Bool) -&gt; ()"
+                  moduleName = "Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mramotar/src/store-ios/store/store/impl/stream/StreamHandlerImpl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "141"
+                  endingLineNumber = "141"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "AA5E21EC-9F63-45C4-A0E0-473BF5658873 - fe6d580b3fd8673f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (store.FetcherResult&lt;&#x3c4;_0_1&gt;) -&gt; () in store.StreamHandlerImpl.fetchFromNetworkAndWriteToSourceOfTruth(key: &#x3c4;_0_0, fallBackToSourceOfTruth: Swift.Bool) -&gt; ()"
+                  moduleName = "Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mramotar/src/store-ios/store/store/impl/stream/StreamHandlerImpl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "141"
+                  endingLineNumber = "141"
+                  offsetFromSymbolStart = "844">
+               </Location>
+               <Location
+                  uuid = "AA5E21EC-9F63-45C4-A0E0-473BF5658873 - 1d4e18c8694ed64"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "store.StreamHandlerImpl.fetchFromNetworkAndWriteToSourceOfTruth(key: &#x3c4;_0_0, fallBackToSourceOfTruth: Swift.Bool) -&gt; ()"
+                  moduleName = "Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mramotar/src/store-ios/store/store/impl/stream/StreamHandlerImpl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "139"
+                  endingLineNumber = "139"
+                  offsetFromSymbolStart = "608">
+               </Location>
+               <Location
+                  uuid = "AA5E21EC-9F63-45C4-A0E0-473BF5658873 - 72fcf372dab6647a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;store.StoreError&gt;) -&gt; () in store.StreamHandlerImpl.fetchFromNetworkAndWriteToSourceOfTruth(key: &#x3c4;_0_0, fallBackToSourceOfTruth: Swift.Bool) -&gt; ()"
+                  moduleName = "Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mramotar/src/store-ios/store/store/impl/stream/StreamHandlerImpl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "139"
+                  endingLineNumber = "139"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "AA5E21EC-9F63-45C4-A0E0-473BF5658873 - fe6d580b3fd86761"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (store.FetcherResult&lt;&#x3c4;_0_1&gt;) -&gt; () in store.StreamHandlerImpl.fetchFromNetworkAndWriteToSourceOfTruth(key: &#x3c4;_0_0, fallBackToSourceOfTruth: Swift.Bool) -&gt; ()"
+                  moduleName = "Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mramotar/src/store-ios/store/store/impl/stream/StreamHandlerImpl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "139"
+                  endingLineNumber = "139"
+                  offsetFromSymbolStart = "844">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CEB27664-1919-47C2-B0ED-B050775D0946"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tests/StreamHandlerWithoutSourceOfTruthTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "StreamHandlerWithoutSourceOfTruthTests"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
